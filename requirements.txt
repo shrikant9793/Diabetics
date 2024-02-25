@@ -5,3 +5,4 @@ seaborn
 os
 sklearn
 --upgrade pip
+-e

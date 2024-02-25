@@ -4,3 +4,4 @@ matplotlib
 seaborn
 os
 sklearn
+--upgrade pip
